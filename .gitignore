@@ -1,0 +1,6 @@
+# Microdados do SINAN — baixe do DATASUS, nunca versione
+*.csv
+*.xlsx
+*.xls
+*.dbc
+*.dbf
